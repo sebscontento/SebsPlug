@@ -1,4 +1,4 @@
-SebsPlug a plugin made for VCV Rack. 
+SebsPlug a stutter plugin made for VCV Rack. 
 
 check out VCV rack 
 https://vcvrack.com/
